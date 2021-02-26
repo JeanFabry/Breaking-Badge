@@ -1,7 +1,5 @@
 # Breaking Badge
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
-
 ## Project infos 
 
 - **Type of challenge**: consolidation
@@ -19,7 +17,7 @@ This is a web development exercise carried out with the BECODE training to learn
 
 So there will be two possibilities of sessions: administrators and users. The administrator will be able to add users, assign badges to them and the user will be able to have an explanatory list of the different badges and see which ones he has obtained.
 
-### Pre-requisite :bowtie:
+### Pre-requisite 
 
 What you need to get started ...
 
